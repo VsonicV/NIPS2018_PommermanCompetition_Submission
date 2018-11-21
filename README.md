@@ -1,0 +1,2 @@
+# NIPS2018_PommermanCompetition_Submission
+Submission repository for NIPS 2018 Pommerman Competition
